@@ -1,0 +1,12 @@
+{
+  "name": "TKH_Classroom_Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HaxagonusD/TKH_Classroom_Bot.git",
+  "author": "HaxagonusD <jquezad1@binghamton.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "googleapis": "39"
+  }
+}
